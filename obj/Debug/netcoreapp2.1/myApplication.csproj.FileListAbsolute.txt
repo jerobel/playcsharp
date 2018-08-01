@@ -1,0 +1,11 @@
+C:\Users\accrecia\myApplication\bin\Debug\netcoreapp2.1\myApplication.deps.json
+C:\Users\accrecia\myApplication\bin\Debug\netcoreapp2.1\myApplication.runtimeconfig.json
+C:\Users\accrecia\myApplication\bin\Debug\netcoreapp2.1\myApplication.runtimeconfig.dev.json
+C:\Users\accrecia\myApplication\bin\Debug\netcoreapp2.1\myApplication.dll
+C:\Users\accrecia\myApplication\bin\Debug\netcoreapp2.1\myApplication.pdb
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.csprojAssemblyReference.cache
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.csproj.CoreCompileInputs.cache
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.AssemblyInfoInputs.cache
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.AssemblyInfo.cs
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.dll
+C:\Users\accrecia\myApplication\obj\Debug\netcoreapp2.1\myApplication.pdb
